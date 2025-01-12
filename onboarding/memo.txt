@@ -1,0 +1,41 @@
+Px.Model의 사용법을 알려주는 하나의 새로운 파일을 만들자.
+
+        Transparent: {
+            Set: function (id, opacity) {
+                opacity *= 0.01;
+                core.transparentUtil.set(id, opacity);
+            },
+            SetAll: function (opacity) {
+                opacity *= 0.01;
+                core.transparentUtil.setAll(opacity);
+            },
+            Restore: function () {
+                core.transparentUtil.restore();
+            }
+        },
+
+Visible: {
+            Show: function (id) {
+                core.modelVisibility.show(id);
+            },
+            Hide: function (id) {
+                core.modelVisibility.hide(id);
+            },
+            ShowByArray: function (idList) {
+                core.modelVisibility.showArray(idList);
+            },
+            HideByArray: function (idList) {
+                core.modelVisibility.hideArray(idList);
+            },
+            ShowAll: function () {
+                core.modelVisibility.showAll();
+            },
+            HideAll: function () {
+                core.modelVisibility.hideAll();
+            },
+                    GetHierarchy: () => {
+            return core.modelVisibility.getFloorData();
+        },
+
+Transparent로 도면을 투명하게 설정하게 만들 수 있는 기능을 구현하고
+Visible로 특정 도면을 보이게 하는 기능을 구현하하는것을 과제로 설정해줘.

@@ -1,0 +1,174 @@
+[
+{
+    "id": 1,
+    "group": 2,
+    "lineHeight": 30,
+    "displayText": "POI1",
+    "iconUrl": "/icon.png",
+    "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+    },
+    "property": {
+        "id": 1,
+        "poiCategory": {
+            "id": 2,
+            "category": {
+                "id": 2,
+                "name": "POI 분류",
+                "parent": null,
+                "children": null,
+                "depth": 0
+            },
+            "iconSetDto": {
+                "id": 1,
+                "name": "아이콘셋",
+                "icon2dFileName": "icon.png",
+                "icon3dFileName": null,
+                "dirName": "/"
+            },
+            "poiSet": null,
+            "name": "POI 분류",
+            "imageFileName": null
+        },
+        "drawingDetailDto": {
+            "id": 1,
+            "drawingCategory": {
+                "id": 1,
+                "name": "도면 분류",
+                "parentId": null,
+                "children": null,
+                "depth": 0,
+                "drawing": null
+            },
+            "code": "drawing",
+            "name": "도면",
+            "physicalName": "drawing.FBX"
+        },
+        "floorDto": {
+            "id": 1,
+            "name": "율동공원",
+            "floorDetails": [
+                {
+                    "sbmFloorId": "1",
+                    "sbmFloorName": "율동공원",
+                    "sbmFloorGroup": "1",
+                    "sbmFloorBase": "0",
+                    "sbmFileName": "율동공원.sbm",
+                    "sbmIsMain": "true"
+                }
+            ]
+        },
+        "name": "POI1",
+        "assignYn": "N",
+        "position": "{\"x\":0,\"y\":0,\"z\":0}",
+        "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+        "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+        "effectiveDate": null,
+        "manager": null,
+        "sbmFloorGroup": 1,
+        "subCategory": 2,
+        "floorNo": "1"
+    }
+}
+,
+{
+    "id": 2,
+    "group": 2,
+    "lineHeight": 30,
+    "displayText": "POI2",
+    "iconUrl": "/icon.png",
+    "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+    },
+    "property": {
+        "id": 2,
+        "poiCategory": {
+            "id": 2,
+            "category": {
+                "id": 2,
+                "name": "POI 분류",
+                "parent": null,
+                "children": null,
+                "depth": 0
+            },
+            "iconSetDto": {
+                "id": 1,
+                "name": "아이콘셋",
+                "icon2dFileName": "icon.png",
+                "icon3dFileName": null,
+                "dirName": "/"
+            },
+            "poiSet": null,
+            "name": "POI 분류",
+            "imageFileName": null
+        },
+        "drawingDetailDto": {
+            "id": 1,
+            "drawingCategory": {
+                "id": 1,
+                "name": "도면 분류",
+                "parentId": null,
+                "children": null,
+                "depth": 0,
+                "drawing": null
+            },
+            "code": "drawing",
+            "name": "도면",
+            "physicalName": "drawing.FBX"
+        },
+        "floorDto": {
+            "id": 1,
+            "name": "율동공원",
+            "floorDetails": [
+                {
+                    "sbmFloorId": "1",
+                    "sbmFloorName": "율동공원",
+                    "sbmFloorGroup": "1",
+                    "sbmFloorBase": "0",
+                    "sbmFileName": "율동공원.sbm",
+                    "sbmIsMain": "true"
+                }
+            ]
+        },
+        "name": "POI2",
+        "assignYn": "N",
+        "position": "{\"x\":0,\"y\":0,\"z\":0}",
+        "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+        "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+        "effectiveDate": null,
+        "manager": null,
+        "topologyMainPoiYn": "N",
+        "defectStatus": "",
+        "standard": "",
+        "cctvUrl": null,
+        "plantPartCode": null,
+        "sbmFloorGroup": 1,
+        "subCategory": 2,
+        "floorNo": "1"
+    }
+}
+]

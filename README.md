@@ -12,23 +12,6 @@
 - **렌더링**: WebGL/Three.js
 - **스타일링**: Svelte 컴포넌트를 통한 CSS-in-JS
 
-## 프로젝트 구조
-```
-fluxcity-onboarding/
-├── src/
-│ ├── components/ # 재사용 가능한 3D 컴포넌트
-│ ├── examples/ # 튜토리얼 예제
-│ └── utils/ # 헬퍼 함수
-├── public/ # 정적 에셋
-└── package.json
-```
-
-
-## 시작하기
-1. 저장소 복제
-2. 의존성 설치: `npm install`
-3. 개발 서버 실행: `npm run dev`
-
 ## 주요 기능
 - 기본 3D 객체 조작
 - 카메라 컨트롤 및 뷰포트 관리
@@ -52,3 +35,5 @@ MIT License
 ---
 
 *참고: 이것은 학습 리소스입니다. 실제 애플리케이션 개발 시에는 여러분의 능력을 마음껏 펼쳐 주세요.*
+
+npm run dev -- --open

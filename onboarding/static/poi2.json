@@ -1,0 +1,987 @@
+[
+    {
+        "type": "",
+        "id": 3,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 35.35797831158802,
+            "y": 304.00000000000006,
+            "z": -104.02886467344527
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI3",
+        "property": {
+            "id": 3,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 10,
+                "name": "7F",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "7F",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "7F.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI3",
+            "assignYn": "Y",
+            "position": "{\"x\":35.35797831158802,\"y\":304.00000000000006,\"z\":-104.02886467344527}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "1",
+            "floorName": "7F"
+        }
+    },
+    {
+        "type": "",
+        "id": 4,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 155.82601892502925,
+            "y": -107.47834620765676,
+            "z": -109.48878995580176
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI4",
+        "property": {
+            "id": 4,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 1,
+                "name": "B4",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "B4",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "B4.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI4",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "0",
+            "floorName": "B4"
+        }
+    },
+    {
+        "type": "",
+        "id": 5,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": -49.0471996619337,
+            "y": -103.99999999999997,
+            "z": -46.235064359335375
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI5",
+        "property": {
+            "id": 5,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 2,
+                "name": "B3",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "B3",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "B3.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI5",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "1",
+            "floorName": "B3"
+        }
+    },
+    {
+        "type": "",
+        "id": 6,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 160.10341725298932,
+            "y": -71.00001953125008,
+            "z": 12.167352918328618
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI6",
+        "property": {
+            "id": 6,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 3,
+                "name": "B2",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "B2",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "B2.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI6",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "2",
+            "floorName": "B2"
+        }
+    },
+    {
+        "type": "",
+        "id": 7,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 58.424971228025015,
+            "y": -26.85718521243342,
+            "z": -184.2572706306044
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI7",
+        "property": {
+            "id": 7,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 4,
+                "name": "B1",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "B1",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "B1.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI7",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "3",
+            "floorName": "B1"
+        }
+    },
+    {
+        "type": "",
+        "id": 8,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": -2.7379390058620032,
+            "y": 43.000002441406274,
+            "z": -87.48466898226084
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI8",
+        "property": {
+            "id": 8,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 5,
+                "name": "1F",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "1F",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "1F.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI7",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "0",
+            "floorName": "1F"
+        }
+    },
+    {
+        "type": "",
+        "id": 9,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 27.84768471118862,
+            "y": 87.00000488281253,
+            "z": -129.3086674479062
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI9",
+        "property": {
+            "id": 9,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 6,
+                "name": "2F",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "2F",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "2F.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI7",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "1",
+            "floorName": "2F"
+        }
+    },
+    {
+        "type": "",
+        "id": 10,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 74.33681098255852,
+            "y": 120.99993565762696,
+            "z": -67.470689852654
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI10",
+        "property": {
+            "id": 10,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 7,
+                "name": "3F",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "3F",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "3F.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI7",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "2",
+            "floorName": "3F"
+        }
+    },
+    {
+        "type": "",
+        "id": 11,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 146.32607359737813,
+            "y": 169.000009765625,
+            "z": -64.68514920840477
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI11",
+        "property": {
+            "id": 11,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 8,
+                "name": "4F",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "4F",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "4F.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI7",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "3",
+            "floorName": "4F"
+        }
+    },
+    {
+        "type": "",
+        "id": 12,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 77.31736552746163,
+            "y": 208,
+            "z": -62.82584681511554
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI12",
+        "property": {
+            "id": 12,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 9,
+                "name": "5F",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "5F",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "5F.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI12",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "4",
+            "floorName": "5F"
+        }
+    },
+    {
+        "type": "",
+        "id": 13,
+        "group": 2,
+        "lineHeight": 30,
+        "position": {
+            "x": 33.78203580390465,
+            "y": 250.00000079165906,
+            "z": -107.35147292459848
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 100,
+            "z": 100
+        },
+        "iconUrl": "/icon.png",
+        "displayText": "POI13",
+        "property": {
+            "id": 13,
+            "poiCategory": {
+                "id": 2,
+                "category": {
+                    "id": 2,
+                    "name": "POI 분류",
+                    "parent": null,
+                    "children": null,
+                    "depth": 0
+                },
+                "iconSetDto": {
+                    "id": 1,
+                    "name": "아이콘셋",
+                    "icon2dFileName": "icon.png",
+                    "icon3dFileName": null,
+                    "dirName": "/"
+                },
+                "poiSet": null,
+                "name": "POI 분류",
+                "imageFileName": null
+            },
+            "drawingDetailDto": {
+                "id": 2,
+                "drawingCategory": {
+                    "id": 1,
+                    "name": "도면 분류",
+                    "parentId": null,
+                    "children": null,
+                    "depth": 0,
+                    "drawing": null
+                },
+                "code": "building",
+                "name": "건물",
+                "physicalName": "building.FBX"
+            },
+            "floorDto": {
+                "id": 10,
+                "name": "6F",
+                "floorDetails": [
+                    {
+                        "sbmFloorId": "1",
+                        "sbmFloorName": "6F",
+                        "sbmFloorGroup": "1",
+                        "sbmFloorBase": "0",
+                        "sbmFileName": "6F.sbm",
+                        "sbmIsMain": "true"
+                    }
+                ]
+            },
+            "name": "POI13",
+            "assignYn": "Y",
+            "position": "{\"x\":0,\"y\":0,\"z\":0}",
+            "rotation": "{\"x\":0,\"y\":0,\"z\":0}",
+            "scale": "{\"x\":100,\"y\":100,\"z\":100}",
+            "effectiveDate": null,
+            "manager": null,
+            "topologyMainPoiYn": "N",
+            "defectStatus": "",
+            "standard": "",
+            "cctvUrl": null,
+            "plantPartCode": null,
+            "sbmFloorGroup": 1,
+            "subCategory": 2,
+            "floorNo": "5",
+            "floorName": "6F"
+        }
+    }
+]
